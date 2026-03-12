@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basketball Schedule 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:20260325-girls@basketball2026
+DTSTART:20260325T160000
+DTEND:20260325T180000
+SUMMARY:Girls Basketball - Notre Dame vs Bishop Larkin
+LOCATION:Notre Dame Catholic School
+DESCRIPTION:Home: Notre Dame | Away: Bishop Larkin\nGame Time: Girls 4:00
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260325-boys@basketball2026
+DTSTART:20260325T180000
+DTEND:20260325T200000
+SUMMARY:Boys Basketball - Notre Dame vs Bishop Larkin
+LOCATION:Notre Dame Catholic School
+DESCRIPTION:Home: Notre Dame | Away: Bishop Larkin\nGame Time: Boys right after Girls
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260331-girls@basketball2026
+DTSTART:20260331T150000
+DTEND:20260331T170000
+SUMMARY:Girls Basketball - St. Anthony vs Notre Dame
+LOCATION:St. Leo Wellness Center
+DESCRIPTION:Home: St. Anthony | Away: Notre Dame\nGame Time: Girls 3:00
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260331-boys@basketball2026
+DTSTART:20260331T170000
+DTEND:20260331T190000
+SUMMARY:Boys Basketball - St. Anthony vs Notre Dame
+LOCATION:St. Leo Wellness Center
+DESCRIPTION:Home: St. Anthony | Away: Notre Dame\nGame Time: Boys right after Girls
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260402-off@basketball2026
+DTSTART:20260402
+DTEND:20260403
+SUMMARY:Basketball - OFF Holy Thursday
+DESCRIPTION:No Games - Holy Thursday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407-practice@basketball2026
+DTSTART:20260407
+DTEND:20260408
+SUMMARY:Basketball - Practice Day
+DESCRIPTION:Practice Day - No Games
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409-girls@basketball2026
+DTSTART:20260409T163000
+DTEND:20260409T183000
+SUMMARY:Girls Basketball - St. John Paul vs Notre Dame
+LOCATION:Lecanto Middle School\, 3800 West Educational Path\, Lecanto FL 34461
+DESCRIPTION:Home: St. John Paul | Away: Notre Dame\nGame Time: Girls 4:30
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409-boys@basketball2026
+DTSTART:20260409T183000
+DTEND:20260409T203000
+SUMMARY:Boys Basketball - St. John Paul vs Notre Dame
+LOCATION:Lecanto Middle School\, 3800 West Educational Path\, Lecanto FL 34461
+DESCRIPTION:Home: St. John Paul | Away: Notre Dame\nGame Time: Boys right after Girls
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414-girls@basketball2026
+DTSTART:20260414T161500
+DTEND:20260414T181500
+SUMMARY:Girls Basketball - Bishop Larkin vs Notre Dame
+LOCATION:8408 Monarch Dr\, New Port Richey FL 34668
+DESCRIPTION:Home: Bishop Larkin | Away: Notre Dame\nGame Time: Girls 4:15
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414-boys@basketball2026
+DTSTART:20260414T181500
+DTEND:20260414T201500
+SUMMARY:Boys Basketball - Bishop Larkin vs Notre Dame
+LOCATION:8408 Monarch Dr\, New Port Richey FL 34668
+DESCRIPTION:Home: Bishop Larkin | Away: Notre Dame\nGame Time: Boys right after Girls
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416-girls@basketball2026
+DTSTART:20260416T160000
+DTEND:20260416T180000
+SUMMARY:Girls Basketball - Notre Dame vs St. Anthony
+LOCATION:Notre Dame Catholic School
+DESCRIPTION:Home: Notre Dame | Away: St. Anthony\nGame Time: Girls 4:00
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416-boys@basketball2026
+DTSTART:20260416T180000
+DTEND:20260416T200000
+SUMMARY:Boys Basketball - Notre Dame vs St. Anthony
+LOCATION:Notre Dame Catholic School
+DESCRIPTION:Home: Notre Dame | Away: St. Anthony\nGame Time: Boys after Girls
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260421-girls@basketball2026
+DTSTART:20260421T160000
+DTEND:20260421T180000
+SUMMARY:Girls Basketball - Notre Dame vs St. John Paul
+LOCATION:Notre Dame Catholic School
+DESCRIPTION:Home: Notre Dame | Away: St. John Paul\nGame Time: Girls 4:00
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260421-boys@basketball2026
+DTSTART:20260421T180000
+DTEND:20260421T200000
+SUMMARY:Boys Basketball - Notre Dame vs St. John Paul
+LOCATION:Notre Dame Catholic School
+DESCRIPTION:Home: Notre Dame | Away: St. John Paul\nGame Time: Boys after Girls
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260423-off@basketball2026
+DTSTART:20260423
+DTEND:20260424
+SUMMARY:Basketball - OFF
+DESCRIPTION:No Games
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428-semifinals@basketball2026
+DTSTART:20260428
+DTEND:20260429
+SUMMARY:Basketball - SEMI FINALS
+DESCRIPTION:Semi Finals - Time TBD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430-finals@basketball2026
+DTSTART:20260430
+DTEND:20260501
+SUMMARY:Basketball - FINALS (Tentative)
+LOCATION:Bishop McLaughlin H.S.
+DESCRIPTION:Finals - Tentative\nLocation: Bishop McLaughlin H.S.
+END:VEVENT
+
+END:VCALENDAR
