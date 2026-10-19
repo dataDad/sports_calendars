@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zach//Flag Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Notre Dame Flag Football 2026
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:23dafc7f08c657a6@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football vs St. Anthony
+DTSTART;TZID=America/New_York:20261105T160000
+DTEND;TZID=America/New_York:20261105T180000
+LOCATION:Arthur Engle Park\, 11611 Denton Ave\, Hudson\, FL
+DESCRIPTION:Girls game 4:00 PM / Boys game 5:00 PM.\nNotre Dame home field 
+ is Arthur Engle Park (not the school).\nSchedules are subject to change.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ND Flag Football vs St. Anthony
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:715f90c65040b65b@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football @ Bishop Larkin
+DTSTART;TZID=America/New_York:20261110T163000
+DTEND;TZID=America/New_York:20261110T183000
+LOCATION:Bishop Larkin Catholic School\, 8408 Monarch Dr\, New Port Richey\
+ , FL 34668
+DESCRIPTION:Girls game 4:30 PM / Boys game 5:30 PM.\nSchedules are subject 
+ to change.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ND Flag Football @ Bishop Larkin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:09cdb0a839a3e9d2@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football vs St. John Paul
+DTSTART;TZID=America/New_York:20261112T160000
+DTEND;TZID=America/New_York:20261112T180000
+LOCATION:Arthur Engle Park\, 11611 Denton Ave\, Hudson\, FL
+DESCRIPTION:Girls game 4:00 PM / Boys game 5:00 PM.\nNotre Dame home field 
+ is Arthur Engle Park (not the school).\nSchedules are subject to change.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ND Flag Football vs St. John Paul
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb0b62194dffd9f@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football @ St. Anthony
+DTSTART;TZID=America/New_York:20261117T160000
+DTEND;TZID=America/New_York:20261117T180000
+LOCATION:12202 Main St\, San Antonio\, FL
+DESCRIPTION:Girls game 4:00 PM / Boys game 5:00 PM.\nField is directly acro
+ ss from St. Anthony Catholic School.\nSchedules are subject to change.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ND Flag Football @ St. Anthony
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c257085cf2aec3a0@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football vs Bishop Larkin
+DTSTART;TZID=America/New_York:20261201T160000
+DTEND;TZID=America/New_York:20261201T180000
+LOCATION:Arthur Engle Park\, 11611 Denton Ave\, Hudson\, FL
+DESCRIPTION:Girls game 4:00 PM / Boys game 5:00 PM.\nNotre Dame home field 
+ is Arthur Engle Park (not the school).\nSchedules are subject to change.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ND Flag Football vs Bishop Larkin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c82c4b320a9f34d4@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football @ St. John Paul
+DTSTART;TZID=America/New_York:20261203T160000
+DTEND;TZID=America/New_York:20261203T180000
+LOCATION:Saint John Paul Catholic School\, 4341 W. Homosassa Trail\, Lecant
+ o\, FL 34661
+DESCRIPTION:Girls game 4:00 PM / Boys game 5:00 PM.\nSchedules are subject 
+ to change.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ND Flag Football @ St. John Paul
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b77251a5b341f00f@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football – Semi-Finals (TBD)
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+TRANSP:TRANSPARENT
+DESCRIPTION:Semi-finals: #1 vs #4 and #2 vs #3. Times and location TBD.\nSc
+ hedules are subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:69d61acfda3e41d7@ndflagfootball2026
+DTSTAMP:20261019T123743Z
+SUMMARY:ND Flag Football – Finals (TBD)
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+TRANSP:TRANSPARENT
+DESCRIPTION:Flag football finals. Time and location TBD.\nSchedules are sub
+ ject to change.
+END:VEVENT
+END:VCALENDAR
